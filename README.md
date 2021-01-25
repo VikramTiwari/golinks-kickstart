@@ -2,9 +2,7 @@
 
 Here are a few go/links routes to kickstart your journey.
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![How to use these routes](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Job Functions
 
@@ -37,6 +35,6 @@ Here are a few go/links routes to kickstart your journey.
 
 Do you have ideas about a new go/links category or want to add your website to an existing route? Feel free to create a new PR! Please add new routes and links alphabetically so that it's easier for humans to read and modify. Machines will self-optimize!
 
-### Sponsor
+## Sponsor
 
 You sponsorships help keep the project active and improvements ongoing. It takes less than the cost of a coffee to sponsor the project! Consider sponsoring the project if it saves you time and helps you in your daily tasks.
