@@ -14,7 +14,7 @@ Here are a few go/links routes to kickstart your journey. Read more about [how t
 ## Developer Tools
 
 - [gh/ for GitHub](https://raw.githubusercontent.com/VikramTiwari/golinks-kickstart/main/src/gh.json)
-- [ml/ for Machine Learning Development]('https://raw.githubusercontent.com/VikramTiwari/golinks-kickstart/main/src/ml.json)
+- [ml/ for Machine Learning Development](https://raw.githubusercontent.com/VikramTiwari/golinks-kickstart/main/src/ml.json)
 - [wd/ for Web Development](https://raw.githubusercontent.com/VikramTiwari/golinks-kickstart/main/src/wd.json)
 
 ## Cloud Providers
