@@ -1,0 +1,9 @@
+{
+  "cdp": "https://chromedevtools.github.io/devtools-protocol/",
+  "ext": "https://developer.chrome.com/docs/extensions/reference/",
+  "mdn": "https://developer.mozilla.org/en-US/",
+  "pptr": "https://pptr.dev/",
+  "pw": "https://playwright.dev/",
+  "pwa": "https://web.dev/progressive-web-apps/",
+  "releases": "https://www.chromestatus.com/features/schedule"
+}
