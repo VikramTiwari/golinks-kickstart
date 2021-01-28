@@ -1,8 +1,6 @@
 # Go/Links Kickstart
 
-Here are a few go/links routes to kickstart your journey.
-
-[![How to use these routes](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Here are a few go/links routes to kickstart your journey. Read more about [how to use them](https://www.cakeai.app/products/go-links/tips-and-tricks).
 
 ## Job Functions
 
@@ -30,6 +28,10 @@ Here are a few go/links routes to kickstart your journey.
 - [learn/ for Resources to learn from](./src/learn.json)
 - [new/ for Creating new things](./src/new.json)
 - [play/ for Playthings](./src/play.json)
+
+## Template for you to get started with
+
+- [me/ for Your own shortcuts](./src/me.json)
 
 ## Add yours?
 
